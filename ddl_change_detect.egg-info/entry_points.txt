@@ -1,0 +1,2 @@
+[console_scripts]
+initialize_db = ddl_change_detect.db_init:create_schema_store_db

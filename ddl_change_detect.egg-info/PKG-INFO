@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: ddl-change-detect
+Version: 0.1.0
+Summary: A package for schema management in databases.
+Home-page: https://github.com/sachinndhimann/ddl_change_detect.git
+Author: Sachin Dhiman
+Author-email: sachindhiman1@live.in
+Keywords: database schema management
+Requires-Dist: pandas
+Requires-Dist: sqlite3
+Requires-Dist: difflib

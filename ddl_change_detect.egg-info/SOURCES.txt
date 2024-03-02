@@ -1,0 +1,7 @@
+setup.py
+ddl_change_detect.egg-info/PKG-INFO
+ddl_change_detect.egg-info/SOURCES.txt
+ddl_change_detect.egg-info/dependency_links.txt
+ddl_change_detect.egg-info/entry_points.txt
+ddl_change_detect.egg-info/requires.txt
+ddl_change_detect.egg-info/top_level.txt
